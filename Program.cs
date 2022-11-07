@@ -16,11 +16,7 @@ namespace DoubleNestedLoops
             Console.WriteLine("Double Nested Loops");
             Console.WriteLine();
 
-            //make a loop in another loop
-            //inside of inner loop display loop variables
-            //predict what will be displayed BEFORE!
-
-
+            //loop in another loop
 
           //  int numbase = 10; // how many digits
             for (int i = 1; i <= 10; i++)  //numbase - 1, after <=
