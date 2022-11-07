@@ -21,6 +21,7 @@ namespace DoubleNestedLoops
           //  int numbase = 10; // how many digits
             for (int i = 1; i <= 10; i++)  //numbase - 1, after <=
             {
+                Console.WriteLine(i);
                 for (int j = 1; j <= 10; j++) // i++ is also i + 1
                 {
                     for (int k = 1; k <= 10; k++) 
